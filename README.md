@@ -1,23 +1,47 @@
 <div align="center">
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola%2C+soy+Gonzalo+Narvaez!+%F0%9F%91%8B;Desarrollo+de+Software+%2B+Machine+Learning;Siempre+aprendiendo+cosas+nuevas" alt="Presentación animada" />
+<img src="assets/banner.svg" alt="Ventana de terminal retro: ¡Hola, soy Gonzalo Narvaez!" width="100%">
+
+<img src="assets/marquee.svg" alt="Bienvenido a mi perfil. Página en construcción. Mejor vista en 1024x768." width="100%">
 
 <br>
 
+<img src="assets/btn-1024.svg" alt="Mejor visto en 1024x768" width="88" height="31">
+<img src="assets/btn-handcoded.svg" alt="Hecho a mano con café y código" width="88" height="31">
+<img src="assets/btn-browser.svg" alt="Cualquier navegador es bienvenido" width="88" height="31">
+<img src="assets/btn-web10.svg" alt="Web 1.0 para siempre" width="88" height="31">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Wilson-oss-wp&label=VISITANTE&color=33ff33&style=flat-square" alt="Contador de visitas">
+
+<br><br>
+
+<img src="assets/construction.svg" alt="Página en construcción" width="100%">
+
 </div>
 
----
+<br>
 
-## 👨‍💻 Sobre mí
+<img src="assets/t-about.svg" alt="SOBRE_MI.TXT" width="100%">
 
-- 🚀 Me apasiona aplicar el desarrollo de software y el **Machine Learning** para crear soluciones reales.
-- 🛠️ Construyo aplicaciones con **React**, **Python**, **Spring Security** y **Apache Kafka**, usando arquitecturas como el **Patrón Saga**.
-- 📚 Actualmente profundizando en **Arquitecturas de Software** e **Inteligencia Artificial**.
-- 🌱 Siempre aprendiendo cosas nuevas.
+```text
+  .----------------.     gonzalo@github
+  | .------------. |     --------------------------------------
+  | | C:\> hola_ | |     Nombre ....: Gonzalo Narvaez
+  | |            | |     Rol .......: Dev de software + ML
+  | |            | |     Lenguajes .: Python, Java, JavaScript
+  | '------------' |     Frontend ..: React, HTML, CSS
+  '--.----------.--'     Backend ...: Spring Security, Kafka, JWT
+   _/____________\_      Foco ......: Arquitecturas de Software e IA
+  /________________\     Estado ....: Siempre aprendiendo cosas nuevas
+```
 
----
+> Me apasiona aplicar el desarrollo de software y el **Machine Learning** para crear soluciones reales. Construyo aplicaciones con React, Python, Spring Security y Apache Kafka, con arquitecturas como el **Patrón Saga**.
 
-## 🧰 Tech Stack
+<br>
+
+<img src="assets/t-stack.svg" alt="TECH_STACK.EXE" width="100%">
 
 <div align="center">
 
@@ -53,33 +77,37 @@
 
 </div>
 
----
+<br>
 
 <!--
-## 📌 Proyectos destacados
 Descomentá esta sección y completala con tus repos más importantes.
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [nombre-del-repo](https://github.com/Wilson-oss-wp/nombre-del-repo) | Una línea sobre qué hace | React, Spring, Kafka |
+<img src="assets/t-projects.svg" alt="PROYECTOS.DIR" width="100%">
+
+```text
+C:\PROYECTOS> dir
+
+ nombre-del-repo ........ Una línea sobre qué hace      [React, Spring, Kafka]
+ otro-repo .............. Una línea sobre qué hace      [Python]
+```
 -->
 
-## 📊 Estadísticas de GitHub
+<img src="assets/t-stats.svg" alt="ESTADISTICAS.DAT" width="100%">
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wilson-oss-wp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-oss-wp&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wilson-oss-wp&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=33ff33&text_color=b8f5b8&icon_color=33ff33&border_color=33ff33" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-oss-wp&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=33ff33&text_color=b8f5b8&border_color=33ff33" alt="Lenguajes más usados" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Wilson-oss-wp&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+<img src="https://streak-stats.demolab.com/?user=Wilson-oss-wp&background=0a0a0a&border=33ff33&ring=33ff33&fire=ffcc33&currStreakNum=b8f5b8&currStreakLabel=33ff33&sideNums=b8f5b8&sideLabels=33ff33&dates=1f9d1f" alt="Racha de GitHub" />
 
 </div>
 
----
+<br>
 
-## 🐍 Mis contribuciones
+<img src="assets/t-snake.svg" alt="SNAKE.EXE" width="100%">
 
 <div align="center">
 
@@ -91,14 +119,18 @@ Descomentá esta sección y completala con tus repos más importantes.
 
 </div>
 
----
+<br>
 
-## 📬 Contacto
+<img src="assets/t-contact.svg" alt="CONTACTO.HTM" width="100%">
 
 <div align="center">
 
 <a href="https://wa.me/TU_NUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://t.me/TU_USUARIO"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+<br><br>
+
+<img src="assets/footer.svg" alt="Barra de tareas retro con el botón Inicio" width="100%">
 
 </div>
