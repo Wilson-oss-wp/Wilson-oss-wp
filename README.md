@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Gonzalo+Narvaez!+%F0%9F%91%8B;Desarrollo+de+Software+%2B+Machine+Learning;Siempre+aprendiendo+cosas+nuevas" alt="Presentación animada" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola%2C+soy+Gonzalo+Narvaez!+%F0%9F%91%8B;Desarrollo+de+Software+%2B+Machine+Learning;Siempre+aprendiendo+cosas+nuevas" alt="Presentación animada" />
 
 <br>
-
-
 
 </div>
 
@@ -81,12 +79,26 @@ Descomentá esta sección y completala con tus repos más importantes.
 
 ---
 
+## 🐍 Mis contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wilson-oss-wp/Wilson-oss-wp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wilson-oss-wp/Wilson-oss-wp/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/Wilson-oss-wp/Wilson-oss-wp/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📬 Contacto
 
 <div align="center">
 
-<a href="https://wa.me/+543886135083"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:gnznlrvz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://wa.me/TU_NUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://t.me/TU_USUARIO"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
